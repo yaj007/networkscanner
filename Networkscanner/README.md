@@ -17,9 +17,12 @@ sudo chmod +x setup.sh
 sudo bash setup.sh
 
 networkscanner -t <target>
+
   
 # Example
 
-networkscanner -t 192.168.1.1
+networkscanner -t 192.168.0.1
 
-networkscanner -t 192.168.1.0/24
+networkscanner -t 192.168.0.101
+
+networkscanner -t 192.168.0.101/24
