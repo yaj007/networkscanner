@@ -10,6 +10,8 @@ it works on ARP to scan network
 sudo -i
 git clone https://github.com/yeasin1052/cse496-networkscanner
 
+cd cse496-networkscanner
+
 cd Networkscanner
 
 sudo chmod +x setup.sh
