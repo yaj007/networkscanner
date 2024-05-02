@@ -16,7 +16,7 @@ sudo chmod +x setup.sh
 
 sudo bash setup.sh
 
-networkscanner -t <target>
+networkscanner -t [target]
 
   
 # Example
