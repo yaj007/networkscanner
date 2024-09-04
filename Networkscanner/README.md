@@ -10,6 +10,7 @@ it works on ARP to scan network
 sudo -i
 
 git clone https://github.com/yaj007/networkscanner
+
 cd networkscanner
 
 cd Networkscanner
