@@ -7,6 +7,8 @@ It can be used to scan a target or a network range
 it works on ARP to scan network 
 
 # Installation
+
+Using Kali Linux:
 sudo -i
 
 git clone https://github.com/yaj007/networkscanner
